@@ -28,6 +28,8 @@ public final class Integrantes {
         lista.add(new Tarjeta("Deivid7717", "Deivid Rosero", "Vamos mis reinas", "#831bd8"));
         lista.add(new Tarjeta("darvillota125-prog", "Darwin villota", "Vamos por ese parche tranqui", "#f40d0d"));
         lista.add(new Tarjeta("EstebanCa02", "Esteban Gomez", "vamos por ese cinco", "#16a021"));
+        lista.add(new Tarjeta("JuanoCruz64", "Juan Cruz", "Barra libre o miedo?", "#58c510"));
+
         // >>> AGREGUE SU TARJETA DEBAJO DE ESTA LÍNEA <<<
 
 

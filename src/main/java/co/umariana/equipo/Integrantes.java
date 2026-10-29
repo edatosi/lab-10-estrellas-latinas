@@ -16,7 +16,7 @@ import java.util.List;
 public final class Integrantes {
 
     /** Título que muestra la ventana (no es necesario cambiarlos). */
-    public static final String NOMBRE_EQUIPO = "Nuestro equipo";
+    public static final String NOMBRE_EQUIPO = "ESTRELLAS LATINAS";
     public static final String LEMA = "Estrellas forever RHLM";
 
     private Integrantes() {
@@ -26,6 +26,7 @@ public final class Integrantes {
         List<Tarjeta> lista = new ArrayList<>();
 
         lista.add(new Tarjeta("Deivid7717", "Deivid Rosero", "Vamos mis reinas", "#831bd8"));
+        lista.add(new Tarjeta("darvillota125-prog", "Darwin villota", "Vamos por ese parche tranqui", "#f40d0d"));
         // >>> AGREGUE SU TARJETA DEBAJO DE ESTA LÍNEA <<<
 
         return lista;
